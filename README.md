@@ -1,8 +1,3 @@
-**Hash: SHA256**
-
-sha256sum cryptnox_random_access_card_generator.html
-b0a016808eb2c33358a516c2aa759f0cdc28e3d89b1a2861bcd9a2de4893a6f1  cryptnox_random_access_card_generator.html
-
 # Cryptnox Random Access Card Generator
 
 A secure, standalone web application for generating random access cards with QR codes, PIN and PUK for Cryptnox wallets.
